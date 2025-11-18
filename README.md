@@ -50,8 +50,8 @@ python -m venv .venv && source .venv/bin/activate  # on Windows: .venv\Scripts\a
 pip install -r requirements.txt
 
 #3) or normal copy paste and try run code, you can install libraries
----
 
+---
 
 
 ## My recomendation
